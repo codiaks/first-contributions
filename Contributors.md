@@ -6342,6 +6342,7 @@ Michael Wong
 - [Nada Adel](https://github.com/nada-adel-mohamady)
 - [Anthony yao]
 - [Aarav Goel](https://github.com/Northy11)
+- [Akhil Surya A](https://github.com/codiaks)
 - [Gabusho](https://github.com/gabusho92)
   [Joshua Wood](https://github.com/joshmwood)
 - [Maximilian Poehls](https://github.com/maxpoe)
